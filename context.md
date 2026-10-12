@@ -15,7 +15,7 @@ The intended audience is recruiters, hiring managers, product leaders, design an
 ## Owner profile
 
 - **Name:** Rehaan Patra Das
-- **Role:** AI Product Manager
+- **Target role:** AI Product Manager
 - **Work preference / location:** Remote work; based in Kolkata, India
 - **Contact email:** princebaban11@gmail.com
 - **GitHub:** [princebaban11-AxcGod](https://github.com/princebaban11-AxcGod)
@@ -176,7 +176,6 @@ When helping with this portfolio:
 
 ## Open items for the owner
 
-- Confirm whether the title "AI Product Manager" describes a current role, target role, or portfolio positioning, and adjust the wording if needed.
 - Confirm which course artifacts are personally authored or co-authored and which may be published.
 - Select the strongest one or two case studies and describe the owner's exact contribution.
 - Add primary research evidence and validation results only when available and permissioned.
