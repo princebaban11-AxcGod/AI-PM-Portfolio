@@ -19,7 +19,7 @@ The intended audience is recruiters, hiring managers, product leaders, design an
 - **Work preference / location:** Remote work; based in Kolkata, India
 - **Contact email:** princebaban11@gmail.com
 - **GitHub:** [princebaban11-AxcGod](https://github.com/princebaban11-AxcGod)
-- **LinkedIn:** Not yet provided
+- **LinkedIn:** [rehaan-patra-das](https://www.linkedin.com/in/rehaan-patra-das-705b61434)
 
 The portfolio should make it easy for a reader to understand:
 
@@ -176,7 +176,6 @@ When helping with this portfolio:
 
 ## Open items for the owner
 
-- Add the owner's LinkedIn profile URL if they want it shown publicly.
 - Confirm whether the title "AI Product Manager" describes a current role, target role, or portfolio positioning, and adjust the wording if needed.
 - Confirm which course artifacts are personally authored or co-authored and which may be published.
 - Select the strongest one or two case studies and describe the owner's exact contribution.
