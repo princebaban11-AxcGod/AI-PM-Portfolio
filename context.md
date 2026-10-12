@@ -15,6 +15,7 @@ The intended audience is recruiters, hiring managers, product leaders, design an
 ## Owner profile
 
 - **Name:** Rehaan Patra Das
+- **Career stage:** Fresher; do not imply prior professional PM experience without confirmation
 - **Target role:** AI Product Manager
 - **Work preference / location:** Remote work; based in Kolkata, India
 - **Contact email:** princebaban11@gmail.com
