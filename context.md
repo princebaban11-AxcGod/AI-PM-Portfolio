@@ -12,6 +12,15 @@ Build a credible, easy-to-review portfolio that demonstrates product judgment ac
 
 The intended audience is recruiters, hiring managers, product leaders, design and engineering partners, and potential collaborators evaluating product-management or AI-product-management capability.
 
+## Owner profile
+
+- **Name:** Rehaan Patra Das
+- **Role:** AI Product Manager
+- **Work preference / location:** Remote work; based in Kolkata, India
+- **Contact email:** princebaban11@gmail.com
+- **GitHub:** [princebaban11-AxcGod](https://github.com/princebaban11-AxcGod)
+- **LinkedIn:** Not yet provided
+
 The portfolio should make it easy for a reader to understand:
 
 - Which user problem was addressed and why it mattered.
@@ -167,7 +176,8 @@ When helping with this portfolio:
 
 ## Open items for the owner
 
-- Confirm the portfolio name, professional title, location, contact details, and public profile links.
+- Add the owner's LinkedIn profile URL if they want it shown publicly.
+- Confirm whether the title "AI Product Manager" describes a current role, target role, or portfolio positioning, and adjust the wording if needed.
 - Confirm which course artifacts are personally authored or co-authored and which may be published.
 - Select the strongest one or two case studies and describe the owner's exact contribution.
 - Add primary research evidence and validation results only when available and permissioned.

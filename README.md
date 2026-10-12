@@ -2,16 +2,11 @@
 
 > A working portfolio of product thinking, AI-enabled product explorations, and practical prototypes.
 
-**Owner:** [Your name]  
-**Role / target role:** [Your current role or target role]  
-**Location:** [City, country or remote]  
-**Contact:** [Email or preferred contact link]  
-**LinkedIn:** [LinkedIn profile]  
-**GitHub:** [GitHub profile]
+**Owner:** Rehaan Patra Das · **Role:** AI Product Manager · **Location:** Remote; based in Kolkata, India · **Contact:** [princebaban11@gmail.com](mailto:princebaban11@gmail.com) · **LinkedIn:** [Add your LinkedIn profile] · **GitHub:** [princebaban11-AxcGod](https://github.com/princebaban11-AxcGod)
 
 This repository is the starter workspace for presenting product work from discovery through delivery. It is designed to show how I identify user problems, assess opportunities, shape product direction, define requirements, validate experiences, and reason about AI-specific value, cost, risk, and trust.
 
-> **Portfolio status:** This is a documentation starter, not a claim that every case study is complete or every concept has been validated. Replace the bracketed fields, confirm project authorship and permissions, and label research, prototypes, and outcomes accurately before publishing.
+> **Portfolio status:** This is a documentation starter, not a claim that every case study is complete or every concept has been validated. Add your LinkedIn profile, confirm project authorship and permissions, and label research, prototypes, and outcomes accurately before publishing.
 
 ## Portfolio focus
 
