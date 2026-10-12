@@ -44,7 +44,7 @@ Present the owner as a product thinker developing and demonstrating skills in:
 - AI/LLM product framing, evaluation, operating cost, and responsible use.
 - Communicating trade-offs across product, design, engineering, analytics, business, and risk stakeholders.
 
-Do not invent a seniority level, employer, years of experience, customer access, research outcomes, shipped products, or business impact. Keep profile statements as placeholders until the owner supplies verified information.
+Do not invent an employer, years of experience, customer access, research outcomes, shipped products, or business impact. Use only details the owner has supplied or verified.
 
 ## Available source material and review scope
 

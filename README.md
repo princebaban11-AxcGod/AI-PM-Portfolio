@@ -8,8 +8,6 @@
 
 This repository is the starter workspace for presenting product work from discovery through delivery. It is designed to show how I identify user problems, assess opportunities, shape product direction, define requirements, validate experiences, and reason about AI-specific value, cost, risk, and trust.
 
-> **Portfolio status:** This is a documentation starter, not a claim that every case study is complete or every concept has been validated. Add your LinkedIn profile, confirm project authorship and permissions, and label research, prototypes, and outcomes accurately before publishing.
-
 ## Portfolio focus
 
 The portfolio brings together two connected capabilities:
