@@ -17,7 +17,7 @@ The intended audience is recruiters, hiring managers, product leaders, design an
 - **Name:** Rehaan Patra Das
 - **Career stage:** Fresher; do not imply prior professional PM experience without confirmation
 - **Target role:** AI Product Manager
-- **Training:** Currently pursuing AI Product Management training with Masai at IIT Roorkee
+- **Training:** AI Product Management with Masai at IIT Roorkee; in progress, expected completion in January (year not specified)
 - **Work preference / location:** Remote work; based in Kolkata, India
 - **Contact email:** princebaban11@gmail.com
 - **GitHub:** [princebaban11-AxcGod](https://github.com/princebaban11-AxcGod)

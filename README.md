@@ -4,7 +4,7 @@
 
 **Owner:** Rehaan Patra Das · **Career stage:** Fresher · **Target role:** AI Product Manager · **Location:** Remote; based in Kolkata, India · **Contact:** [princebaban11@gmail.com](mailto:princebaban11@gmail.com) · **LinkedIn:** [rehaan-patra-das](https://www.linkedin.com/in/rehaan-patra-das-705b61434) · **GitHub:** [princebaban11-AxcGod](https://github.com/princebaban11-AxcGod)
 
-**Training:** Currently pursuing AI Product Management training with Masai at IIT Roorkee.
+**Training:** AI Product Management with Masai at IIT Roorkee · In progress; expected completion in January.
 
 This repository is the starter workspace for presenting product work from discovery through delivery. It is designed to show how I identify user problems, assess opportunities, shape product direction, define requirements, validate experiences, and reason about AI-specific value, cost, risk, and trust.
 
